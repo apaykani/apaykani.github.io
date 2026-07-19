@@ -2,23 +2,25 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Paykani Lab # the website title (if blank, full name will be used instead)
+title: Paykani Lab
 first_name: Amin
+middle_name:
 last_name: Paykani
-email: a.paykani@qmul.ac.uk
-description: Reactive flows, scientific machine learning, and clean propulsion.
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email is the best way to reach me.
+description: >
+  Research group of Dr Amin Paykani at Queen Mary University of London.
+  Reactive flows, scientific machine learning, and the decarbonisation of transport.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+  Paykani Lab &middot; School of Engineering and Materials Science &middot;
+  Queen Mary University of London.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
+keywords: combustion, reactive flows, scientific machine learning, ammonia, hydrogen, thermal management, CFD, chemical kinetics
+lang: en-GB
+icon: 🔥
 
-url: https://apaykani.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://apaykani.github.io
+baseurl:
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -339,10 +341,13 @@ display_categories: ["external-services"] # these categories will be displayed o
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
- first_name: [Amin]
+scholar:
   last_name: [Paykani]
+  first_name: [Amin, A., A]
+
   style: apa
   locale: en
+
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib

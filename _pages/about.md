@@ -1,34 +1,57 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Reactive flows, scientific machine learning, and the decarbonisation of transport.<br>
+  <a href="https://www.sems.qmul.ac.uk/">School of Engineering and Materials Science</a> ·
+  <a href="https://www.qmul.ac.uk/">Queen Mary University of London</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Engineering Building</p>
+    <p>Queen Mary University of London</p>
+    <p>Mile End Road, London E1 4NS</p>
+    <p><a href="mailto:a.paykani@qmul.ac.uk">a.paykani@qmul.ac.uk</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+We develop data-driven and physics-based methods for combustion and energy systems. Our work sits at the interface of combustion physics and **scientific machine learning**, and is directed at a single question: how do we make the numerical modelling of chemically reactive flows fast enough, and accurate enough, to design the zero-carbon propulsion systems the energy transition requires?
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The group works across four connected themes — [reactive flow and combustion modelling]({{ '/research/' | relative_url }}), machine learning for chemical kinetics, hydrogen and ammonia as sustainable fuels, and the thermal management of electric machines. We are supported by EPSRC, the Royal Society, the Leverhulme Trust and Horizon Europe, and collaborate with partners at ETH Zürich, Kyushu University, Cardiff University and across the UK automotive and aerospace sectors.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The lab is led by **Dr Amin Paykani**, Senior Lecturer in Sustainable Propulsion Systems and Research Lead of the [Centre for Intelligent Transport](https://www.qmul.ac.uk/) at Queen Mary University of London.
+
+<div class="row mt-4 mb-4">
+  <div class="col-sm-4 text-center">
+    <h2 class="font-weight-bold">£1.5M+</h2>
+    <p class="text-muted">secured as Principal Investigator</p>
+  </div>
+  <div class="col-sm-4 text-center">
+    <h2 class="font-weight-bold">70+</h2>
+    <p class="text-muted">peer-reviewed journal articles</p>
+  </div>
+  <div class="col-sm-4 text-center">
+    <h2 class="font-weight-bold">27</h2>
+    <p class="text-muted">h-index</p>
+  </div>
+</div>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/research_highlight.jpg" title="Research highlight" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+      Replace this with your strongest figure — a flame-speed field, an oil-jet
+      CFD result, or a neural-operator schematic. Save it to
+      <code>assets/img/research_highlight.jpg</code>.
+    </div>
+  </div>
+</div>
+
+**Interested in joining?** See [opportunities]({{ '/join/' | relative_url }}) for PhD, postdoctoral and visiting positions.

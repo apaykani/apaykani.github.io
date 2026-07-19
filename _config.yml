@@ -339,12 +339,10 @@ display_categories: ["external-services"] # these categories will be displayed o
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-scholar:
-first_name: [Amin]
-last_name: [Paykani]
+ first_name: [Amin]
+  last_name: [Paykani]
   style: apa
   locale: en
-
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib

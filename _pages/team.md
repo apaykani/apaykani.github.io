@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 description: The people behind the work.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 ## Principal Investigator

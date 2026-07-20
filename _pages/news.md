@@ -39,11 +39,6 @@ nav_order: 6
   </div>
 
   <div class="newsitem">
-    <div class="newsdate">Aug 2026</div>
-    <div class="newsbody">Amin Paykani promoted to <b>Senior Lecturer in Sustainable Propulsion Systems</b>.</div>
-  </div>
-
-  <div class="newsitem">
     <div class="newsdate">Jul 2026</div>
     <div class="newsbody"><a href="https://www.sems.qmul.ac.uk/news/7518/queen-mary-to-lead-3-7m-european-doctoral-network-advancing-ai-accelerated-modelling-for-clean-energy-and-propulsion/">Queen Mary to lead €3.7M European doctoral network</a> advancing AI-accelerated modelling for clean energy and propulsion — <b>ASCEND</b>, a Horizon Europe MSCA Doctoral Network coordinated at QMUL.</div>
   </div>
@@ -73,6 +68,11 @@ nav_order: 6
     <div class="newsbody">Invited seminar on machine learning for combustion modelling, <a href="https://www.ualberta.ca/">University of Alberta</a>, Canada.</div>
   </div>
 
+  <div class="newsitem">
+    <div class="newsdate">Aug 2025</div>
+    <div class="newsbody">Amin Paykani promoted to <b>Senior Lecturer in Sustainable Propulsion Systems</b>.</div>
+  </div>
+  
   <div class="newsitem">
     <div class="newsdate">Jul 2025</div>
     <div class="newsbody"><a href="https://doi.org/10.1016/j.proci.2025.105896"><i>On-the-fly uncertainty-aware deep ensembles for stiff chemical kinetics</i></a> published in <i>Proceedings of the Combustion Institute</i>.</div>

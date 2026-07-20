@@ -32,11 +32,13 @@ His research integrates scientific machine learning with combustion physics to a
 
 <div class="row align-items-center mb-4">
   <div class="col-3 col-md-2">
-    <img src="{{ '/assets/img/team-rahnama.jpg' | relative_url }}" alt="Dr Pourya Rahnama" class="img-fluid rounded-circle">
+    <img src="{{ '/assets/img/team-rahnama.jpg' | relative_url }}"
+         alt="Dr Pourya Rahnama"
+         style="width:110px; height:110px; object-fit:cover; object-position:center top; border-radius:50%;">
   </div>
   <div class="col-9 col-md-10">
     <strong>Dr Pourya Rahnama</strong><br>
-    Modelling of non-equilibrium reactive plasmas · 2026–2028
+    Modelling of non-equilibrium reactive plasmas · 2026–present
   </div>
 </div>
 
@@ -49,7 +51,6 @@ His research integrates scientific machine learning with combustion physics to a
     Data-driven modelling of liquid ammonia sprays · 2025–present
   </div>
 </div>
-
 ---
 
 ## PhD Students

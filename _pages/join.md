@@ -2,7 +2,6 @@
 layout: page
 permalink: /join/
 title: Join Us
-description: PhD, postdoctoral and visiting research opportunities.
 nav: true
 nav_order: 7
 ---

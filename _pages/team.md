@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
-description: The people behind the work.
+description: 
 nav: true
 nav_order: 3
 ---

@@ -2,22 +2,32 @@
 layout: page
 title: Team
 permalink: /team/
-description: 
 nav: true
 nav_order: 3
 ---
 
 ## Principal Investigator (PI)
 
-<div class="row">
-  <div class="col-sm-3">
-    {% include figure.liquid path="assets/img/prof_pic.jpg" class="img-fluid rounded z-depth-1" %}
+<div class="row align-items-center mb-4">
+  <div class="col-4 col-md-3">
+    <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}"
+         alt="Dr Amin Paykani"
+         style="width:100%; max-width:220px; aspect-ratio:1/1; object-fit:cover; object-position:center top; border-radius:8px;">
   </div>
-  <div class="col-sm-9">
-    <h4>Dr Amin Paykani</h4>
-    <p class="text-muted">BSc · MSc · PhD · FHEA</p>
-    <p>Senior Lecturer in Sustainable Propulsion Systems<br>
-    Research Lead, Centre for Intelligent Transport</p>
+  <div class="col-8 col-md-9">
+    <h4 class="mb-1">Dr Amin Paykani</h4>
+    <p class="text-muted mb-2">BSc · MSc · PhD · FHEA · CEng · MIMechE</p>
+    <p class="mb-2">
+      Senior Lecturer in Sustainable Propulsion Systems<br>
+      Research Lead, <a href="https://www.seresearch.qmul.ac.uk/cit/">Centre for Intelligent Transport</a>
+    </p>
+    <p class="mb-0">
+      <a href="https://www.sems.qmul.ac.uk/staff/a.paykani/">QMUL profile</a> ·
+      <a href="https://scholar.google.com/citations?user=PmNTn-IAAAAJ&hl=en">Google Scholar</a> ·
+      <a href="https://orcid.org/0000-0002-1344-5549">ORCID</a> ·
+      <a href="https://www.linkedin.com/in/YOUR-HANDLE/">LinkedIn</a> ·
+      <a href="mailto:a.paykani@qmul.ac.uk">Email</a>
+    </p>
   </div>
 </div>
 

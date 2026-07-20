@@ -25,7 +25,7 @@ nav_order: 3
       <a href="https://www.sems.qmul.ac.uk/staff/a.paykani/">QMUL profile</a> ·
       <a href="https://scholar.google.com/citations?user=PmNTn-IAAAAJ&hl=en">Google Scholar</a> ·
       <a href="https://orcid.org/0000-0002-1344-5549">ORCID</a> ·
-      <a href="https://www.linkedin.com/in/YOUR-HANDLE/">LinkedIn</a> ·
+      <a href="https://www.linkedin.com/in/aminpaykani/">LinkedIn</a> ·
       <a href="mailto:a.paykani@qmul.ac.uk">Email</a>
     </p>
   </div>
@@ -33,7 +33,7 @@ nav_order: 3
 
 Amin is Senior Lecturer in Sustainable Propulsion Systems at Queen Mary University of London and Research Lead of the Centre for Intelligent Transport. He studied Mechanical Engineering at the University of Tabriz (BSc 2007, MSc 2010) and completed his PhD in Automotive Engineering at the Iran University of Science and Technology in 2016. After industrial roles in engine development, he joined ETH Zürich as a postdoctoral researcher, before taking up a lectureship at the University of Hertfordshire in 2019 and moving to QMUL in 2023.
 
-His research integrates scientific machine learning with combustion physics to address energy conversion, emissions and transport decarbonisation. He has secured over £1.5M as Principal Investigator from EPSRC, the Royal Society, the Leverhulme Trust and Horizon Europe, and has published more than 70 peer-reviewed journal articles. He is an Associate Editor of *Frontiers in Mechanical Engineering*, a member of the EPSRC and UKRI Talent Peer Review Colleges, and an Innovate UK assessor.
+His research integrates scientific machine learning with combustion physics to address energy conversion, emissions and transport decarbonisation. He has secured over £1.5M as Principal Investigator (PI) from EPSRC, the Royal Society, the Leverhulme Trust and Horizon Europe, and has published more than 70 peer-reviewed journal articles. He is an Associate Editor of *Frontiers in Mechanical Engineering*, a member of the EPSRC and UKRI Talent Peer Review Colleges, and an Innovate UK assessor.
 
 
 ---

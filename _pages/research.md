@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: Four connected themes at the interface of combustion science and machine learning.
+description: 
 nav: true
 nav_order: 2
 ---

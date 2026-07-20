@@ -2,12 +2,12 @@
 layout: page
 title: Research
 permalink: /research/
-description: Four connected themes at the interface of combustion physics and machine learning.
+description: Four connected themes at the interface of combustion science and machine learning.
 nav: true
 nav_order: 2
 ---
 
-Our research advances data-driven and physics-based methods for combustion and energy systems, addressing energy conversion, emissions reduction and the decarbonisation of transport. The four themes below are deliberately connected: the machine-learning methods are built for the combustion problems, and the combustion problems set the accuracy requirements the methods must meet.
+Our research advances data-driven and physics-based methods for future energy conversion and propulsion systems in four themes:
 
 ---
 
@@ -32,9 +32,9 @@ We develop high-fidelity and reduced-order modelling frameworks for chemically r
 
 ## Scientific Machine Learning for Chemical Kinetics
 
-Detailed chemical mechanisms are the computational bottleneck in reacting-flow simulation. Stiff kinetics can consume the overwhelming majority of the runtime in a large-eddy simulation, which is why most industrial combustion design still relies on drastically simplified chemistry.
+Detailed chemical mechanisms are the computational bottleneck in reacting flow simulation. Stiff kinetics can consume the overwhelming majority of the runtime in a large-eddy simulation, which is why most industrial combustion design still relies on drastically simplified chemistry.
 
-We build machine-learning surrogates that integrate the chemical source term directly, and — critically — that know when they are wrong. Our work spans Gaussian-process frameworks for probabilistic source-term integration, on-the-fly uncertainty-aware deep ensembles that adapt during simulation, and deep neural operators for stiff kinetics. The emphasis throughout is on structure preservation and calibrated uncertainty rather than raw regression accuracy: a surrogate that silently extrapolates is worse than no surrogate at all.
+We build machine learning surrogates that integrate the chemical source term directly, and critically that know when they are wrong. Our work spans Gaussian-process frameworks for probabilistic source-term integration, on-the-fly uncertainty-aware deep ensembles that adapt during simulation, and deep neural operators for stiff kinetics. The emphasis throughout is on structure preservation and calibrated uncertainty rather than raw regression accuracy: a surrogate that silently extrapolates is worse than no surrogate at all.
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">

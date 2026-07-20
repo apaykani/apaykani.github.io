@@ -26,16 +26,13 @@ We develop data-driven and physics-based methods for energy and propulsion syste
 
 The group works across four connected themes — [reactive flow and combustion modelling]({{ '/research/' | relative_url }}), machine learning for combustion, hydrogen and ammonia as sustainable fuels, and the thermal management of electric machines. We are supported by EPSRC, the Royal Society, the Leverhulme Trust and Horizon Europe, and collaborate with partners at ETH Zürich, Kyushu University, Cardiff University and across the UK automotive and aerospace sectors.
 
-The group is led by **Dr Amin Paykani**, Senior Lecturer in Sustainable Propulsion Systems and Research Lead of the [Centre for Intelligent Transport] (https://www.seresearch.qmul.ac.uk/cit/) at Queen Mary University of London.
-
+The group is led by **Dr Amin Paykani**, Senior Lecturer in Sustainable Propulsion Systems and Research Lead of the <a href="https://www.seresearch.qmul.ac.uk/cit/">Centre for Intelligent Transport</a> at Queen Mary University of London.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/research_highlight.jpg" title="Research highlight" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
-      Replace this with your strongest figure — a flame-speed field, an oil-jet
-      CFD result, or a neural-operator schematic. Save it to
-      <code>assets/img/research_highlight.jpg</code>.
+      Your caption here — describe what the figure shows.
     </div>
   </div>
 </div>

@@ -80,12 +80,12 @@ nav_order: 6
 
   <div class="newsitem">
     <div class="newsdate">Dec 2024</div>
-    <div class="newsbody">Queen Mary hosted the <b>Machine Learning for Combustion Meeting</b>.</div>
+    <div class="newsbody">Queen Mary hosted the <b>Machine Learning for Combustion Meeting, <a href="https://sites.google.com/view/ml4combustion/home"></b>.</div>
   </div>
 
   <div class="newsitem">
     <div class="newsdate">Feb 2024</div>
-    <div class="newsbody">Appointed <b>Research Lead</b> of the <a href="https://www.seresearch.qmul.ac.uk/cit/">Centre for Intelligent Transport</a>.</div>
+    <div class="newsbody">Amin Paykani appointed <b>Research Lead</b> of the <a href="https://www.seresearch.qmul.ac.uk/cit/">Centre for Intelligent Transport</a>.</div>
   </div>
 
   <div class="newsitem">

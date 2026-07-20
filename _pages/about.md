@@ -32,8 +32,7 @@ The group is led by **Dr Amin Paykani**, Senior Lecturer in Sustainable Propulsi
   <div class="col-sm-10 mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/research_highlight.jpg" title="Research highlight" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
-      Your caption here — describe what the figure shows.
-    </div>
+          </div>
   </div>
 </div>
 

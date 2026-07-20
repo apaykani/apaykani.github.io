@@ -19,7 +19,7 @@ profile:
 
 news: true
 selected_papers: true
-social: true
+social: false
 ---
 
 We develop data-driven and physics-based methods for energy and propulsion systems. Our work sits at the interface of combustion modelling and **scientific machine learning**, and is directed at a single question: how do we make the numerical modelling of chemically reactive flows fast enough, and accurate enough, to design the zero-carbon propulsion systems the energy transition requires?
@@ -38,3 +38,22 @@ The group is led by **Dr Amin Paykani**, Senior Lecturer in Sustainable Propulsi
 </div>
 
 **Interested in joining?** See [opportunities]({{ '/join/' | relative_url }}) for PhD, postdoctoral and visiting positions.
+
+<hr>
+
+<h4 class="text-center mt-4 mb-4">Our funders</h4>
+
+<div class="row align-items-center justify-content-center text-center">
+  <div class="col-6 col-md-3 mb-4">
+    <img src="{{ '/assets/img/funders/epsrc.png' | relative_url }}" alt="EPSRC" class="img-fluid" style="max-height: 70px; width: auto;">
+  </div>
+  <div class="col-6 col-md-3 mb-4">
+    <img src="{{ '/assets/img/funders/royal-society.png' | relative_url }}" alt="The Royal Society" class="img-fluid" style="max-height: 70px; width: auto;">
+  </div>
+  <div class="col-6 col-md-3 mb-4">
+    <img src="{{ '/assets/img/funders/leverhulme.png' | relative_url }}" alt="The Leverhulme Trust" class="img-fluid" style="max-height: 70px; width: auto;">
+  </div>
+  <div class="col-6 col-md-3 mb-4">
+    <img src="{{ '/assets/img/funders/horizon-europe.png' | relative_url }}" alt="Horizon Europe" class="img-fluid" style="max-height: 70px; width: auto;">
+  </div>
+</div>

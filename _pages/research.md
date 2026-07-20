@@ -22,9 +22,6 @@ We develop high-fidelity and reduced-order modelling frameworks for chemically r
     {% include figure.liquid path="assets/img/research_combustion.jpg" title="Reactive flow simulation" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-<div class="caption">
-  Add a representative figure at <code>assets/img/research_combustion.jpg</code>.
-</div>
 
 **Representative work:** Faghih *et al.*, *Combustion and Flame* (2023) · Paykani *et al.*, *Fuel* (2021)
 

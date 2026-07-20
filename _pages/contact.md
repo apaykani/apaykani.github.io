@@ -12,11 +12,11 @@ Senior Lecturer in Sustainable Propulsion Systems<br>
 Research Lead, <a href="https://www.seresearch.qmul.ac.uk/cit/">Centre for Intelligent Transport</a>
 
 <div class="row mt-4">
-  <div class="col-md-6 mb-3">
+  <div class="col-md-5 mb-4" style="padding-right:2rem;">
     <b>Email</b><br>
     <a href="mailto:a.paykani@qmul.ac.uk">a.paykani@qmul.ac.uk</a>
   </div>
-  <div class="col-md-6 mb-3">
+  <div class="col-md-7 mb-4">
     <b>Address</b><br>
     School of Engineering and Materials Science<br>
     Queen Mary University of London<br>

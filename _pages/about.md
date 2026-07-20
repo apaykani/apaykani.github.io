@@ -56,7 +56,4 @@ The group is led by **Dr Amin Paykani**, Senior Lecturer in Sustainable Propulsi
     <img src="{{ '/assets/img/funder-horizon-europe.jpg' | relative_url }}" alt="Horizon Europe" class="img-fluid" style="max-height:70px; width:auto;">
   </div>
 </div>
-  <div class="col-6 col-md-3 mb-4">
-    <img src="{{ '/assets/img/funders/horizon-europe.png' | relative_url }}" alt="Horizon Europe" class="img-fluid" style="max-height: 70px; width: auto;">
-  </div>
-</div>
+

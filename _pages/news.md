@@ -80,7 +80,7 @@ nav_order: 6
 
   <div class="newsitem">
     <div class="newsdate">Dec 2024</div>
-    <div class="newsbody">Queen Mary hosted the <b>Machine Learning for Combustion Meeting, <a href="https://sites.google.com/view/ml4combustion/home"></b>.</div>
+    <div class="newsbody">Queen Mary hosted the <a href="https://sites.google.com/view/ml4combustion/home"><b>Machine Learning for Combustion Meeting</b></a>.</div>
   </div>
 
   <div class="newsitem">

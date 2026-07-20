@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-## Principal Investigator
+## Principal Investigator (PI)
 
 <div class="row">
   <div class="col-sm-3">
@@ -30,9 +30,25 @@ His research integrates scientific machine learning with combustion physics to a
 
 ## Postdoctoral Researchers
 
-**Dr Pourya Rahnama** — Modelling of non-equilibrium reactive plasmas · 2026–2028
+<div class="row align-items-center mb-4">
+  <div class="col-3 col-md-2">
+    <img src="{{ '/assets/img/team-rahnama.jpg' | relative_url }}" alt="Dr Pourya Rahnama" class="img-fluid rounded-circle">
+  </div>
+  <div class="col-9 col-md-10">
+    <strong>Dr Pourya Rahnama</strong><br>
+    Modelling of non-equilibrium reactive plasmas · 2026–2028
+  </div>
+</div>
 
-**Dr Cihat Emre Üstün** — Data-driven modelling of liquid ammonia sprays · 2025–present
+<div class="row align-items-center mb-4">
+  <div class="col-3 col-md-2">
+    <img src="{{ '/assets/img/team-ustun.jpg' | relative_url }}" alt="Dr Cihat Emre Üstün" class="img-fluid rounded-circle">
+  </div>
+  <div class="col-9 col-md-10">
+    <strong>Dr Cihat Emre Üstün</strong><br>
+    Data-driven modelling of liquid ammonia sprays · 2025–present
+  </div>
+</div>
 
 ---
 
@@ -44,11 +60,15 @@ His research integrates scientific machine learning with combustion physics to a
 
 ## Alumni
 
-| | | |
-|---|---|---|
-| **Dr Cihat Emre Üstün** | PhD, QMUL, 2025 | *now PDRA, Paykani Group* |
-| **Dr Waruna Maddumage** | PhD, QMUL, 2025 | *Thermal Engineer, University of Nottingham* |
-| **Dr Reza Jafari** | PhD, Hertfordshire, 2025 (co-supervisor) | *Project Engineer at Jaguar Land Rover (JLR)* |
-| **Dr Hamed Chehrmonavari** | PhD, IUST, 2026 (co-supervisor) 
-| **Dr Navid Kousheshi** | PhD, Tabriz, 2020 (co-supervisor) | *now PDRA, University College Dublin* |
-| **Dr Mahdi Faghih Abdollahi** | PDRA, 2021–2023 | *Senior Lecturer, University of Hertfordshire* |
+
+**Dr Cihat Emre Üstün** — PhD, QMUL, 2025 · *now PDRA, Paykani Group*
+
+**Dr Waruna Maddumage** — PhD, QMUL, 2025 · *Thermal Engineer, University of Nottingham*
+
+**Dr Reza Jafari** — PhD, Hertfordshire, 2025 (co-supervised) · *Project Engineer, Jaguar Land Rover (JLR)*
+
+**Dr Hamed Chehrmonavari** — PhD, IUST, 2026 (co-supervised)
+
+**Dr Navid Kousheshi** — PhD, Tabriz, 2020 (co-supervised) · *now PDRA, University College Dublin*
+
+**Dr Mahdi Faghih Abdollahi** — PDRA, 2021–2023 · *Senior Lecturer, University of Hertfordshire*

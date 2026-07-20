@@ -41,19 +41,18 @@ The group is led by **Dr Amin Paykani**, Senior Lecturer in Sustainable Propulsi
 <hr>
 
 <h4 class="text-center mt-4 mb-4">Our funders</h4>
-
-<div class="row align-items-center justify-content-center text-center" style="background:#ffffff; border-radius:8px; padding:1.5rem 0.5rem;">
-  <div class="col-6 col-md-3 mb-3">
-    <img src="{{ '/assets/img/funder-epsrc.jpg' | relative_url }}" alt="EPSRC" class="img-fluid" style="max-height:70px; width:auto;">
+<div class="row align-items-center justify-content-center text-center" style="background:#ffffff; border-radius:8px; padding:2rem 1rem;">
+  <div class="col-6 col-md-3 px-4 mb-4">
+    <img src="{{ '/assets/img/funder-epsrc.jpg' | relative_url }}" alt="EPSRC" class="img-fluid" style="max-height:110px; width:auto;">
   </div>
-  <div class="col-6 col-md-3 mb-3">
-    <img src="{{ '/assets/img/funder-royal-society.jpg' | relative_url }}" alt="The Royal Society" class="img-fluid" style="max-height:70px; width:auto;">
+  <div class="col-6 col-md-3 px-4 mb-4">
+     <img src="{{ '/assets/img/funder-royal-society.jpg' | relative_url }}" alt="The Royal Society" class="img-fluid" style="max-height:110px; width:auto;">
   </div>
-  <div class="col-6 col-md-3 mb-3">
-    <img src="{{ '/assets/img/funder-leverhulme.jpg' | relative_url }}" alt="The Leverhulme Trust" class="img-fluid" style="max-height:70px; width:auto;">
+  <div class="col-6 col-md-3 px-4 mb-4">
+    <img src="{{ '/assets/img/funder-leverhulme.jpg' | relative_url }}" alt="The Leverhulme Trust" class="img-fluid" style="max-height:110px; width:auto;">
   </div>
-  <div class="col-6 col-md-3 mb-3">
-    <img src="{{ '/assets/img/funder-horizon-europe.jpg' | relative_url }}" alt="Horizon Europe" class="img-fluid" style="max-height:70px; width:auto;">
+  <div class="col-6 col-md-3 px-4 mb-4">
+    <img src="{{ '/assets/img/funder-horizon-europe.jpg' | relative_url }}" alt="Horizon Europe" class="img-fluid" style="max-height:110px; width:auto;">
   </div>
 </div>
 

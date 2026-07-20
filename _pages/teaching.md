@@ -8,8 +8,6 @@ nav_order: 5
 
 I teach across undergraduate and postgraduate programmes in mechanical and aerospace engineering programmes, with an emphasis on research-led, inclusive delivery that strengthens students' learning outcomes and employability.
 
-## Queen Mary University of London
-
 **Aircraft Propulsion Systems** — EMS614U
 BEng · 2023–present
 

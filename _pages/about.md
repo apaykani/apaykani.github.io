@@ -67,7 +67,7 @@ The group is led by **Dr Amin Paykani**, Senior Lecturer in Sustainable Propulsi
 
 <div class="row align-items-center justify-content-center text-center" style="background:#ffffff; border-radius:8px; padding:2.5rem 1rem;">
   <div class="col-6 col-md-3 px-3 mb-4">
-    <img src="{{ '/assets/img/funder-epsrc.jpg' | relative_url }}" alt="EPSRC" class="img-fluid" style="max-height:170px; width:auto;">
+    <img src="{{ '/assets/img/funder-epsrc.jpg' | relative_url }}" alt="EPSRC" class="img-fluid" style="max-height:220px; width:auto;">
   </div>
   <div class="col-6 col-md-3 px-3 mb-4">
     <img src="{{ '/assets/img/funder-royal-society.jpg' | relative_url }}" alt="The Royal Society" class="img-fluid" style="max-height:170px; width:auto;">

@@ -3,7 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle: >
-  Reactive flows, scientific machine learning, and the decarbonisation of transport.<br>
+  Reactive Flows, Computational Modelling, Scientific Machine Learning (SciML), Thermal Management .<br>
   <a href="https://www.sems.qmul.ac.uk/">School of Engineering and Materials Science</a> ·
   <a href="https://www.qmul.ac.uk/">Queen Mary University of London</a>
 
@@ -26,7 +26,7 @@ We develop data-driven and physics-based methods for energy and propulsion syste
 
 The group works across four connected themes — [reactive flow and combustion modelling]({{ '/research/' | relative_url }}), machine learning for combustion, hydrogen and ammonia as sustainable fuels, and the thermal management of electric machines. We are supported by EPSRC, the Royal Society, the Leverhulme Trust and Horizon Europe, and collaborate with partners at ETH Zürich, Kyushu University, Cardiff University and across the UK automotive and aerospace sectors.
 
-The group is led by **Dr Amin Paykani**, Senior Lecturer in Sustainable Propulsion Systems and Research Lead of the [Centre for Intelligent Transport]([https://www.qmul.ac.uk/](https://www.seresearch.qmul.ac.uk/cit/) at Queen Mary University of London.
+The group is led by **Dr Amin Paykani**, Senior Lecturer in Sustainable Propulsion Systems and Research Lead of the [Centre for Intelligent Transport] (https://www.seresearch.qmul.ac.uk/cit/) at Queen Mary University of London.
 
 
 <div class="row justify-content-sm-center">

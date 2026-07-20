@@ -15,25 +15,24 @@ nav_order: 3
   </div>
   <div class="col-sm-9">
     <h4>Dr Amin Paykani</h4>
-    <p class="text-muted">BSc · MSc · PhD · FHEA · CEng · MIMechE</p>
+    <p class="text-muted">BSc · MSc · PhD · FHEA</p>
     <p>Senior Lecturer in Sustainable Propulsion Systems<br>
     Research Lead, Centre for Intelligent Transport</p>
   </div>
 </div>
 
-Amin is Senior Lecturer in Sustainable Propulsion Systems at Queen Mary University of London and Research Lead of the Centre for Intelligent Transport. He read Mechanical Engineering at the University of Tabriz (BSc 2007, MSc 2010) and completed his PhD in Automotive Engineering at the Iran University of Science and Technology in 2016. After industrial roles in engine development, he joined ETH Zürich as a postdoctoral researcher, before taking up a lectureship at the University of Hertfordshire in 2019 and moving to QMUL in 2023.
+Amin is Senior Lecturer in Sustainable Propulsion Systems at Queen Mary University of London and Research Lead of the Centre for Intelligent Transport. He studied Mechanical Engineering at the University of Tabriz (BSc 2007, MSc 2010) and completed his PhD in Automotive Engineering at the Iran University of Science and Technology in 2016. After industrial roles in engine development, he joined ETH Zürich as a postdoctoral researcher, before taking up a lectureship at the University of Hertfordshire in 2019 and moving to QMUL in 2023.
 
 His research integrates scientific machine learning with combustion physics to address energy conversion, emissions and transport decarbonisation. He has secured over £1.5M as Principal Investigator from EPSRC, the Royal Society, the Leverhulme Trust and Horizon Europe, and has published more than 70 peer-reviewed journal articles. He is an Associate Editor of *Frontiers in Mechanical Engineering*, a member of the EPSRC and UKRI Talent Peer Review Colleges, and an Innovate UK assessor.
 
-[Download CV (PDF)]({{ '/assets/pdf/cv.pdf' | relative_url }})
 
 ---
 
 ## Postdoctoral Researchers
 
-**Dr Pourya Rahnama** — Non-equilibrium reactive plasmas · 2026–2028
+**Dr Pourya Rahnama** — Modelling of non-equilibrium reactive plasmas · 2026–2028
 
-**Dr Cihat Emre Üstün** — Data-driven modelling of reactive flows · 2025–present
+**Dr Cihat Emre Üstün** — Data-driven modelling of liquid ammonia sprays · 2025–present
 
 ---
 
@@ -47,9 +46,9 @@ His research integrates scientific machine learning with combustion physics to a
 
 | | | |
 |---|---|---|
-| **Dr Cihat Emre Üstün** | PhD, QMUL, 2025 | *now PDRA, Paykani Lab* |
-| **Dr Waruna Maddumage** | PhD, QMUL, 2025 | *add current position* |
-| **Dr Reza Jafari** | PhD, Hertfordshire, 2025 (co-supervisor) | *add current position* |
-| **Dr Hamed Chehrmonavari** | PhD, IUST, 2025 (co-supervisor) | *add current position* |
-| **Dr Navid Kousheshi** | PhD, Tabriz, 2020 (co-supervisor) | *add current position* |
-| **Dr Mahdi Faghih Abdollahi** | PDRA, 2021–2023 | *add current position* |
+| **Dr Cihat Emre Üstün** | PhD, QMUL, 2025 | *now PDRA, Paykani Group* |
+| **Dr Waruna Maddumage** | PhD, QMUL, 2025 | *Thermal Engineer, University of Nottingham* |
+| **Dr Reza Jafari** | PhD, Hertfordshire, 2025 (co-supervisor) | *Project Engineer at Jaguar Land Rover (JLR)* |
+| **Dr Hamed Chehrmonavari** | PhD, IUST, 2026 (co-supervisor) 
+| **Dr Navid Kousheshi** | PhD, Tabriz, 2020 (co-supervisor) | *now PDRA, University College Dublin* |
+| **Dr Mahdi Faghih Abdollahi** | PDRA, 2021–2023 | *Senior Lecturer, University of Hertfordshire* |

@@ -6,29 +6,65 @@ nav: true
 nav_order: 7
 ---
 
-## Current openings
+## PhD opportunities
 
-*No funded positions are open at present. Vacancies are posted here and on the [QMUL jobs portal](https://www.qmul.ac.uk/jobs/) as they arise.*
+### Quantum Computing and AI for Nonlinear Dynamics
 
-Recruitment for doctoral candidates on **ASCEND**, our Horizon Europe MSCA Doctoral Network, is expected to open in due course.
+**Applications open — QMUL–China Scholarship Council scholarship route**
+
+This PhD will investigate physics-informed AI and hybrid quantum-classical
+methods for simulating nonlinear dynamical systems. Chemical reaction kinetics,
+including hydrogen and ammonia combustion, will provide challenging test
+problems for assessing accuracy, stability and computational efficiency.
+
+- **Expected start:** September 2027
+- **Application deadline:** 27 January 2027, 16:00 GMT
+- **Funding:** Queen Mary tuition-fee support and CSC support for living
+  expenses, subject to securing a CSC scholarship
+- **Eligibility:** Chinese applicants meeting the QMUL–CSC scheme requirements
+- **Application reference:** SEMS-PHD-738
+
+[View the full project description and application instructions](https://www.sems.qmul.ac.uk/research/studentships/738/quantum-computing-and-ai-for-nonlinear-dynamics).
+
+For informal enquiries, contact
+[Dr Amin Paykani](mailto:a.paykani@qmul.ac.uk).
 
 ---
 
-## Working in the group
+### Machine Learning-Driven Thermal Optimisation for High-Power-Density Electric Motors
 
-We are a computational group with an experimental edge, working on problems where combustion physics and machine learning genuinely need each other. Members develop strong skills in reacting-flow CFD, chemical kinetics, and modern machine-learning frameworks, and publish in venues such as *Combustion and Flame*, *Proceedings of the Combustion Institute*, *Fuel*, and *Applied Thermal Engineering*.
+**Forthcoming EPSRC IDLA PhD studentship — expressions of interest welcome**
 
-You would be joining a group with active collaborations at ETH Zürich, Kyushu University and Cardiff University, and with partners across the UK automotive and aerospace sectors. Our [alumni]({{ '/team/' | relative_url }}) have moved on to academic posts, industrial R&D roles, and postdoctoral positions in the UK and abroad.
+This project, in collaboration with the **Dyson Institute**, will investigate
+how machine learning and computational modelling can improve thermal design
+and cooling strategies for compact, high-power-density electric motors.
+
+The research connects scientific machine learning, thermal-fluid modelling
+and engineering design, with opportunities to address challenges relevant
+to industrial motor development.
+
+- **Expected start:** October 2027
+- **Studentship scheme:** EPSRC Industrial Doctoral Landscape Award (IDLA)
+- **Industrial collaboration:** Dyson Institute
+- **Status:** Formal advertisement and final funding details to follow
+
+We welcome early enquiries from candidates with interests in heat transfer,
+computational fluid dynamics, electric machines, machine learning or
+engineering optimisation.
+
+To express interest, email [a.paykani@qmul.ac.uk](mailto:a.paykani@qmul.ac.uk)
+with your CV and a short explanation of your relevant experience and interests.
 
 ---
 
-## PhD students
+### Forthcoming ASCEND doctoral opportunities
 
-I supervise PhD students through Queen Mary's School of Engineering and Materials Science. Funded projects are advertised above and on FindAPhD.
+Doctoral recruitment opportunities will also be available through **ASCEND**,
+our Horizon Europe MSCA Doctoral Network on accelerated modelling frameworks
+for chemically reactive flows.
 
-I am also glad to support strong candidates applying to competitive schemes, including QMUL Principal's Postgraduate Research Studentships, the China Scholarship Council, and national scholarship programmes. A competitive application takes time to develop, so please make contact **at least three months** before the relevant deadline.
-
-**Background.** Most successful applicants hold a degree in mechanical, aerospace, chemical or energy engineering, or in applied mathematics or computational science, with programming experience in Python or a compiled language. Prior exposure to CFD or machine learning is welcome but not essential — the ability to learn both is what matters.
+Project descriptions, eligibility requirements and application dates will be
+posted here when recruitment opens.
 
 ---
 
@@ -40,9 +76,6 @@ I also welcome approaches from researchers seeking to develop a fellowship appli
 
 - Royal Society Newton International Fellowship
 - Marie Skłodowska-Curie Postdoctoral Fellowship
-- EPSRC Postdoctoral Fellowship
-- Leverhulme Early Career Fellowship
-- Royal Academy of Engineering Research Fellowship
 
 Fellowship applications are substantial undertakings. Please get in touch well ahead of the deadline so there is time to shape the proposal properly.
 
@@ -50,7 +83,7 @@ Fellowship applications are substantial undertakings. Please get in touch well a
 
 ## Visiting researchers
 
-We host visiting PhD students and academics for periods of three to twelve months. Visitors are expected to arrive with their own funding, and to have a clear research question that connects to one of our themes.
+We host visiting PhD students and academics for periods of three to twelve months. Visitors are expected to arrive with their own funding and to have a clear research question that connects to one of our themes.
 
 ---
 

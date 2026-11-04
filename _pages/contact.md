@@ -9,36 +9,42 @@ nav_order: 8
 ## Dr Amin Paykani
 
 Senior Lecturer in Sustainable Propulsion Systems<br>
-Research Lead, <a href="https://www.seresearch.qmul.ac.uk/cit/">Centre for Intelligent Transport</a>
+Research Lead, [Centre for Intelligent Transport](https://www.seresearch.qmul.ac.uk/cit/)<br>
+Queen Mary University of London
 
-<div class="row mt-4">
-  <div class="col-md-5 mb-4" style="padding-right:2rem;">
-    <b>Email</b><br>
-    <a href="mailto:a.paykani@qmul.ac.uk">a.paykani@qmul.ac.uk</a>
-  </div>
-  <div class="col-md-7 mb-4">
-    <b>Address</b><br>
-    School of Engineering and Materials Science<br>
-    Queen Mary University of London<br>
-    Mile End Road<br>
-    London E1 4NS<br>
-    United Kingdom
-  </div>
-</div>
-
----
+<p style="font-size:1.2rem; margin:1.25rem 0;">
+  <a href="mailto:a.paykani@qmul.ac.uk">
+    <strong>a.paykani@qmul.ac.uk</strong>
+  </a>
+</p>
 
 ## Enquiries
 
-**Prospective PhD students and postdoctoral researchers** — please read [Join Us]({{ '/join/' | relative_url }}) before writing. Enquiries that address a specific [research theme]({{ '/research/' | relative_url }}) are far more likely to receive a reply.
+- **Research and industrial collaboration:** Please briefly outline
+  your research question, engineering challenge or proposed collaboration.
 
-**Collaboration** — I welcome approaches from groups working in reactive flow modelling, scientific machine learning, and electrified powertrain thermal management, and from industrial partners with problems in these areas.
+- **PhD opportunities, fellowships and research visits:** Please see
+  [Join Us]({{ '/join/' | relative_url }}) for opportunities and enquiry guidance.
 
-**Media and public engagement** — please email directly with a brief outline of what you need and your deadline.
+- **Invited talks and media enquiries:** Please include the topic,
+  audience, proposed date and format.
 
-**Invited talks and seminars** — I am glad to consider invitations; please include the date, format and audience.
+## Office and postal address
 
----
+Room 220, Engineering Building<br>
+School of Engineering and Materials Science<br>
+Queen Mary University of London<br>
+Mile End Road, London E1 4NS<br>
+United Kingdom
+
+Please contact me by email to arrange a visit.
+
+## Academic profiles
+
+[QMUL profile](https://www.sems.qmul.ac.uk/staff/a.paykani/) ·
+[Google Scholar](https://scholar.google.com/citations?user=PmNTn-IAAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0000-0002-1344-5549) ·
+[LinkedIn](https://www.linkedin.com/in/aminpaykani/)
 
 ## Elsewhere
 

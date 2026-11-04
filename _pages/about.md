@@ -21,14 +21,6 @@ news: false
 selected_papers: false
 social: false
 ---
-<div class="row mb-4">
-  <div class="col-12 px-0">
-    <img src="{{ '/assets/img/research_highlight.jpg' | relative_url }}"
-         alt="Machine learning for combustion"
-         class="img-fluid rounded"
-         style="width:100%; height:auto;">
-  </div>
-</div>
 We develop data-driven and physics-based methods for energy and propulsion systems. Our work sits at the interface of combustion modelling and **scientific machine learning**, and is directed at a single question: how do we make the numerical modelling of chemically reactive flows fast enough, and accurate enough, to design the zero-carbon propulsion systems the energy transition requires?
 
 The group works across four connected themes — [reactive flow and combustion modelling]({{ '/research/' | relative_url }}), machine learning for combustion, hydrogen and ammonia as sustainable fuels, and the thermal management of electric machines. We are supported by EPSRC, the Royal Society, the Leverhulme Trust and Horizon Europe, and collaborate with partners at ETH Zürich, Kyushu University, Cardiff University and across the UK automotive and aerospace sectors.
